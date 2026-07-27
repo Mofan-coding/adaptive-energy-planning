@@ -1,6 +1,6 @@
-# Adaptive Capacity Expansion under Uncertainty
+# Adaptive energy planning supports diverse decarbonization pathways and mitigates lock-in risks
 
-This repository compares three long-term energy investment strategies under uncertain technology costs:
+This repository compares three long-term energy planning strategies under uncertain technology costs:
 
 - **LP Fixed:** one deterministic capacity pathway;
 - **LP Myopic:** annual LP decisions that respond to realized costs;
